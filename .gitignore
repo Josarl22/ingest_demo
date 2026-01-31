@@ -1,2 +1,6 @@
 .env
 .venv
+# Python cache
+__pycache__/
+# Logs
+*.log
