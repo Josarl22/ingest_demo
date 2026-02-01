@@ -1,3 +1,4 @@
+````markdown
 **Overview**
 - **Purpose**: Minimal ingestion demo for local development and testing.
 - **Entry point**: [ingest_demo/src/ingest_demo/main.py](ingest_demo/src/ingest_demo/main.py)
@@ -62,3 +63,4 @@ python src/ingest_demo/main.py
 **Contributing**
 - **Coding style**: follow existing project conventions.
 - **Improvements**: create tests, and update this README if you add features.
+````
