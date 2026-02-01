@@ -6,6 +6,8 @@
 - **Python**: 3.8+ installed and on PATH.
 - **Poetry**: optional but recommended for dependency management.
 
+- **ODBC driver**: If you plan to use `pyodbc`, install "ODBC Driver 17 for SQL Server" (msodbcsql17) or an equivalent driver from Microsoft's download page: https://learn.microsoft.com/sql/connect/odbc/download-odbc-driver-for-sql-server
+
 **Quick Setup (PowerShell)**
 - **Create workspace, venv, and activate**
 ```powershell
